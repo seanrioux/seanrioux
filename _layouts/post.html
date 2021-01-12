@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+<article class="post-page intro pt-4">
+	<header
+		id="introduction"
+		class="row justify-content-center align-items-center pb-4"
+	>
+		<div class="col-sm-6 col-lg-5">
+			<a class="text-muted" href="{{site.baseurl}}/category/{{ page.category }}"
+				>{{ page.category | capitalize }}</a
+			>
+			<h1>{{ page.title }}</h1>
+			<div class="text-muted">{{ page.date | date: '%b %d, %Y' }}</div>
+			<div class="text-muted">{% include readtime.html %}</div>
+		</div>
+		<div class="col-sm-6 col-log-5">
+			<img class="img-fluid" src="{{page.image}}" alt="{{page.alt}}" />
+		</div>
+	</header>
+	<div id="main" class="row justify-content-center pt-4 pb-4">
+		<div id="left" class="col-lg-3 pr-4 mb-4">
+			<section id="sidebar" class="sticky-top sticky-top-offset">
+				{% include skyscraper.html %}
+			</section>
+		</div>
+		<div id="right" class="col-lg-7">
+			<section id="body" class="post-body">
+				<div>{{ content }}</div>
+			</section>
+			{% if site.mailchimp %}
+			<aside id="mailchimp">{% include mailchimp.html %}</aside>
+			{% endif %}
+			<aside id="writer">
+				<div class="border-bottom mb-5">
+					{% if page.author %} {% include writer.html author=page.author %}
+				</div>
+			</aside>
+			{% endif %}
+			<aside id="related">
+				{% include list.html amount=3 category=page.category heading="Related
+				articles" %}
+			</aside>
+		</div>
+	</div>
+</article>

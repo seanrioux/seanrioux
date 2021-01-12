@@ -1,0 +1,18 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"style.scss",
+		"_sass/variables.scss",
+		"_sass/custom.scss",
+		"_sass/theme.scss"
+	],
+	"sourcesContent": [
+		"// Theme variables\n@import \"variables.scss\";\n\n// Boostrap customizations\n@import \"custom.scss\";\n\n// Theme features\n@import \"theme.scss\";\n",
+		"$serif: \"PT Serif\", serif;\n$sans: \"Hind\", sans-serif;\n",
+		"",
+		"body {\n\tfont-family: $serif;\n}\n\nh1,\n.h1,\nh2,\n.h2,\nh3,\n.h3,\nh4,\n.h4,\n.h5,\nh5,\n.h6,\nh6 {\n\tfont-family: $serif;\n\tfont-weight: bold;\n}\n\na.text-dark {\n\t&:hover {\n\t\ttext-decoration: none;\n\t}\n}\n\nimg {\n\tmax-width: 100%;\n}\n\n.nav-offset {\n\tmargin-top: 56px;\n}\n\n.sticky-top-offset {\n\ttop: 56px;\n}\n\n.nav a.nav-link svg {\n\twidth: 18px;\n\tmargin-top: -1px;\n}\n\n.page-content {\n\tfont-size: 20px;\n\tline-height: 1.86;\n\tfont-family: $serif;\n}\n\n.post-page {\n\t.post-body {\n\t\tfont-size: 20px;\n\t\tline-height: 1.86;\n\t\tfont-family: $serif;\n\t\tarticle p,\n\t\tarticle pre,\n\t\tarticle figure,\n\t\tarticle img,\n\t\tarticle blockquote,\n\t\tarticle iframed,\n\t\tarticle embed {\n\t\t\tmargin-bottom: 2rem;\n\t\t}\n\t}\n\t.post-body blockquote {\n\t\tpadding-left: 40px;\n\t\tmargin-left: 0px;\n\t\tfont-style: italic;\n\t\tposition: relative;\n\t}\n\t.post-body blockquote:before {\n\t\tcontent: \"“\";\n\t\tfont-family: $serif;\n\t\tfont-size: 8rem;\n\t\tmargin: -1rem 2rem 0 -3.9rem;\n\t\tposition: absolute;\n\t\topacity: 1;\n\t\tfloat: left;\n\t\tline-height: 1;\n\t}\n\t.post-body:first-letter {\n\t\tfloat: left;\n\t\tfont-size: 5em;\n\t\tline-height: 1;\n\t\tmargin: 0 0.2em 0 0;\n\t\tvertical-align: top;\n\t}\n}\n"
+	],
+	"names": [],
+	"mappings": ";AGAA,AAAA,IAAI,CAAC,EACJ,WAAW,EFDJ,UAAU,EAAE,KAAK,GEExB;;AAED,AAAA,EAAE,EACF,GAAG,EACH,EAAE,EACF,GAAG,EACH,EAAE,EACF,GAAG,EACH,EAAE,EACF,GAAG,EACH,GAAG,EACH,EAAE,EACF,GAAG,EACH,EAAE,CAAC,EACF,WAAW,EFhBJ,UAAU,EAAE,KAAK,EEiBxB,WAAW,EAAE,IAAI,GACjB;;AAED,AACC,CADA,AAAA,UAAU,CACR,KAAK,CAAC,EACP,eAAe,EAAE,IAAI,GACrB;;AAGF,AAAA,GAAG,CAAC,EACH,SAAS,EAAE,IAAI,GACf;;AAED,AAAA,WAAW,CAAC,EACX,UAAU,EAAE,IAAI,GAChB;;AAED,AAAA,kBAAkB,CAAC,EAClB,GAAG,EAAE,IAAI,GACT;;AAED,AAAA,IAAI,CAAC,CAAC,AAAA,SAAS,CAAC,GAAG,CAAC,EACnB,KAAK,EAAE,IAAI,EACX,UAAU,EAAE,IAAI,GAChB;;AAED,AAAA,aAAa,CAAC,EACb,SAAS,EAAE,IAAI,EACf,WAAW,EAAE,IAAI,EACjB,WAAW,EF9CJ,UAAU,EAAE,KAAK,GE+CxB;;AAED,AACC,UADS,CACT,UAAU,CAAC,EACV,SAAS,EAAE,IAAI,EACf,WAAW,EAAE,IAAI,EACjB,WAAW,EFrDL,UAAU,EAAE,KAAK,GE+DvB;;AAdF,AAKE,UALQ,CACT,UAAU,CAIT,OAAO,CAAC,CAAC,EALX,UAAU,CACT,UAAU,CAKT,OAAO,CAAC,GAAG,EANb,UAAU,CACT,UAAU,CAMT,OAAO,CAAC,MAAM,EAPhB,UAAU,CACT,UAAU,CAOT,OAAO,CAAC,GAAG,EARb,UAAU,CACT,UAAU,CAQT,OAAO,CAAC,UAAU,EATpB,UAAU,CACT,UAAU,CAST,OAAO,CAAC,OAAO,EAVjB,UAAU,CACT,UAAU,CAUT,OAAO,CAAC,KAAK,CAAC,EACb,aAAa,EAAE,IAAI,GACnB;;AAbH,AAeC,UAfS,CAeT,UAAU,CAAC,UAAU,CAAC,EACrB,YAAY,EAAE,IAAI,EAClB,WAAW,EAAE,GAAG,EAChB,UAAU,EAAE,MAAM,EAClB,QAAQ,EAAE,QAAQ,GAClB;;AApBF,AAqBC,UArBS,CAqBT,UAAU,CAAC,UAAU,CAAC,MAAM,CAAC,EAC5B,OAAO,EAAE,IAAI,EACb,WAAW,EFxEL,UAAU,EAAE,KAAK,EEyEvB,SAAS,EAAE,IAAI,EACf,MAAM,EAAE,oBAAoB,EAC5B,QAAQ,EAAE,QAAQ,EAClB,OAAO,EAAE,CAAC,EACV,KAAK,EAAE,IAAI,EACX,WAAW,EAAE,CAAC,GACd;;AA9BF,AA+BC,UA/BS,CA+BT,UAAU,CAAC,YAAY,CAAC,EACvB,KAAK,EAAE,IAAI,EACX,SAAS,EAAE,GAAG,EACd,WAAW,EAAE,CAAC,EACd,MAAM,EAAE,WAAW,EACnB,cAAc,EAAE,GAAG,GACnB"
+}

@@ -1,0 +1,7 @@
+<section id="all">
+	<h1 class="h2 mb-4">{{ include.heading }}</h1>
+	{%if include.category %}{% assign filtered = site.posts | where: "category",
+	include.category %} {% else %} {% assign filtered = site.posts %} {% endif %}
+	{% for post in filtered offset:include.off limit:include.amount %}{% include
+	list-item.html %}{% endfor %}
+</section>

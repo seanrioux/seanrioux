@@ -1,0 +1,18 @@
+{% for post in site.posts %} {% if post.tags contains "sticky" %}
+<section id="sticky" class="row justify-content-center bg-light">
+	<article class="col-md-10 pt-5 pb-5">
+		<div class="row">
+			<div class="col-md-6 align-self-center">
+				<h1 class="mb-3">{{ post.title }}</h1>
+				<p class="mb-3 lead">{{ post.summary }}</p>
+				<a href="{{site.baseurl}}{{post.url}}" class="btn btn-primary"
+					>Read More</a
+				>
+			</div>
+			<div class="col-md-6">
+				<img class="img-fluid" src="{{ post.image }}" alt="{{ post.title }}" />
+			</div>
+		</div>
+	</article>
+</section>
+{% endif %} {% endfor %}

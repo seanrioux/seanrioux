@@ -1,0 +1,19 @@
+---
+title: Home
+layout: default
+pagination:
+  enabled: true
+id: home
+---
+
+{% include banner.html %} {% include latest.html %}{% include sticky.html %}
+<div class="row mt-3 justify-content-center">
+	<div class="col-md-6 mt-5">
+		{% include list.html heading="Recent articles" amount=10 off=4 %}
+	</div>
+	<div class="col-md-3 mt-5">
+		<div class="sticky-top sticky-top-offset">
+			{% include skyscraper.html %}
+		</div>
+	</div>
+</div>

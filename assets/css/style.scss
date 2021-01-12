@@ -1,0 +1,12 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+// Theme variables
+@import "variables.scss";
+
+// Boostrap customizations
+@import "custom.scss";
+
+// Theme features
+@import "theme.scss";
