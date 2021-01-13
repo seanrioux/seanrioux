@@ -1,163 +1,270 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-01-11T23:41:59-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sean Rioux</title><subtitle>This is it. This is a blog template and it's tight. Seriously, it's got everything it needs. Got it. Good.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/article/2019-02-04-welcome-to-jekyll" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-02-04T00:00:00-05:00</published><updated>2019-02-04T00:00:00-05:00</updated><id>http://localhost:4000/article/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/article/2019-02-04-welcome-to-jekyll">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://example.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://example.com/" rel="alternate" type="text/html" /><updated>2021-01-12T22:14:56-05:00</updated><id>https://example.com/feed.xml</id><title type="html">Sean Rioux</title><subtitle>This is it. This is a blog template and it's tight. Seriously, it's got everything it needs. Got it. Good.</subtitle><entry><title type="html">How To Fix The Web: Ban All Bots</title><link href="https://example.com/article/2019-02-04-welcome-to-jekyll" rel="alternate" type="text/html" title="How To Fix The Web: Ban All Bots" /><published>2019-02-04T00:00:00-05:00</published><updated>2019-02-04T00:00:00-05:00</updated><id>https://example.com/article/welcome-to-jekyll</id><content type="html" xml:base="https://example.com/article/2019-02-04-welcome-to-jekyll">&lt;p&gt;Social networks are inundated with bots and fake accounts. It is estimated that
+9%-15% of the roughly 340 million twitter accounts may not be human (comparable
+to the population of Canada in terms of total “individuals”). For Facebook the
+estimated percentage of fake accounts is lower, but a significant volume
+nonetheless, with an estimated 5% of their 2.5 billion users fake (or 125
+million fake accounts).&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;A study conducted in the wake of the 2016 US election found that 19% of all
+Tweets during the period leading up to the election we’re posted by 400,000
+bots. The US Senate Intelligence Committee, as part of the Russia Report found a
+concerning amount of bot activity to be part of state sanctioned attacks against
+the US, by Russia.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;And it isn’t limited to the US. In Canada, similar analysis has lead to similar
+conclusions. While not always state sanctioned, bad actors are actively
+leveraging non-human activity to manipulate conversation at a global scale.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;While efforts by social media companies to combat the impact of non-human
+activities on their platforms have been fruitful, the problem persists, and it’s
+getting worse.&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>Sean Rioux</name></author><category term="business" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/demo1.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/demo1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Powerful things you can do with the Markdown editor</title><link href="http://localhost:4000/article/2019-02-03-powerful-things-markdown-editor" rel="alternate" type="text/html" title="Powerful things you can do with the Markdown editor" /><published>2019-02-03T00:00:00-05:00</published><updated>2019-02-03T00:00:00-05:00</updated><id>http://localhost:4000/article/powerful-things-markdown-editor</id><content type="html" xml:base="http://localhost:4000/article/2019-02-03-powerful-things-markdown-editor">&lt;p&gt;There are lots of powerful things you can do with the Markdown editor. If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!&lt;/p&gt;
+&lt;h2 id=&quot;root-causes&quot;&gt;Root Causes&lt;/h2&gt;
 
-&lt;p&gt;As with the last post about the editor, you’ll want to be actually editing this post as you read it so that you can see all the Markdown code we’re using.&lt;/p&gt;
+&lt;p&gt;Why have these platforms allowed such a persistent and identifiable problem to
+reach this level of severity?&lt;/p&gt;
 
-&lt;h2 id=&quot;special-formatting&quot;&gt;Special formatting&lt;/h2&gt;
+&lt;h3 id=&quot;prioritizing-user-volume&quot;&gt;Prioritizing user volume&lt;/h3&gt;
 
-&lt;p&gt;As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:&lt;/p&gt;
+&lt;p&gt;From the beginning these services have prioritized user volume as a key metric.
+As publicly traded companies, with revenue tied to advertising, user growth has
+been a proxy for revenue growth and general platform health. The pursuit of user
+volume over time has lead to a general goal of low friction sign-up, so low,
+that the process can be automated ad infinitum.&lt;/p&gt;
+
+&lt;h3 id=&quot;lack-of-user-verification&quot;&gt;Lack of user verification&lt;/h3&gt;
+
+&lt;p&gt;In pursuit of low friction sign-up, these services have thus far resisted more
+effective user verification measures. While Twitter has recently begun to employ
+phone verification in cases of suspicious activity, and both Twitter and
+Facebook offering voluntary verification programs, for the general user no more
+than an email is a required.&lt;/p&gt;
+
+&lt;p&gt;This is fundamentally problematic as email can not act as a reliable indicator
+of authentic human activity. An email server can easily be self hosted, and
+email accounts easily created on mass.&lt;/p&gt;
+
+&lt;p&gt;While certainly at 340 million users on Twitter and 2.5 billion users on
+Facebook, verification of all accounts presents a non-trivial technical
+challenge. However, that email continues to be all that is required for sign-up
+for platforms of this scale and impact, signals a general lack of effort toward
+true human-user verification in favour of maintaining user volume and growth.&lt;/p&gt;
+
+&lt;h3 id=&quot;third-party-interaction-via-api&quot;&gt;Third party interaction via API&lt;/h3&gt;
+
+&lt;p&gt;In the early days of these services part of the promise (of Twitter in
+particular) was that of a more open web. Twitter would become the defacto mass
+messaging service with an easy to use API (application programming interface) to
+allow all kinds of third-party services to leverage the platform to bring Tweets
+to other services, and other services to Twitter.&lt;/p&gt;
+
+&lt;p&gt;If you’re not familiar with the technology, an API allows programmers to
+interact with software, like Twitter, programmatically. As human users of
+Twitter we typically use an interface (twitter.com or a mobile app). This
+interface is an abstraction layer on top of the API that makes it easy for
+non-programmers to interact with information. The API, conversely allows
+programmers to interact directly with the information. They can get information,
+or post information to the service using this API, close to everything that is
+possible through the interface, but without the limitations of the user
+interface.&lt;/p&gt;
+
+&lt;p&gt;Many business models have been built atop this API based model. If you use
+Buffer or Hootsuite as part of your digital marketing activities, you’re
+leveraging APIs.&lt;/p&gt;
+
+&lt;p&gt;While powerful, and beneficial in some applications, for example automating
+brand messaging across marketing channels or simply creating interactive or
+informational programs, these avenues are now broadly exploited by bad actors.
+Sorting out legitimate use and illegitimate use is something these services are
+actively engaging, but again the problems persist. At the risk of dissuading
+legitimate use these services have yet to fully reign in misuse of their APIs,
+and with few users even aware this automation is possible many of us are
+interacting with this misuse opaquely.&lt;/p&gt;
+
+&lt;h3 id=&quot;lack-of-regulating-ai&quot;&gt;Lack of regulating AI&lt;/h3&gt;
+
+&lt;p&gt;No-one is prepared for how disruptive artificial intelligence is to become in
+the coming decade and beyond, and yet policy makers and technology companies
+have done little to nothing to prevent their misuse, and we’re already seeing
+the effect on these platforms.&lt;/p&gt;
+
+&lt;p&gt;For the most part the non-human actors on social services we’re considering are
+simple automated bots, designed to mimic human interaction with these services,
+or simply use the APIs provided by these services as intended.&lt;/p&gt;
+
+&lt;p&gt;However, pair this with ease at which deep fakes can produce fake human profile
+images, video, audio, or how bots can be trained to create original and
+convincing written text, and the problem of these non-human actors owning these
+platforms may become intractable. Most solutions meant to mitigate the
+prevalence of bots, attempt to do so by looking for signature bot activity:
+monitoring frequency of posting, content originality, or even the nuanced
+cadence at which step by step interactions occur. Machine learning algorithms
+trained to mimic human behaviour accurately is not a remote possibility, it’s a
+present reality, and so it may become impossible to stop non-human actors from
+dominating these platforms if we don’t move aggressively to ban them from these
+platforms.&lt;/p&gt;
+
+&lt;h2 id=&quot;proposed-platform-solutions&quot;&gt;Proposed platform solutions&lt;/h2&gt;
+
+&lt;p&gt;As Jack Dorsey was apt to point out in a recent interview on the New York Times
+Daily podcast, there is no magic bullet to solving the issues of social media
+and changes must be carefully considered. For the most part the fundamental
+mechanisms of these platforms were not designed with a great deal of
+consideration for their broad social impact. Learning from that mistake, it is
+essential as we consider any change to these platforms carefully to mitigate
+future negative impact.&lt;/p&gt;
+
+&lt;p&gt;This, however, cannot be used as an excuse for inaction, or more importantly
+deep changes. This is where it is important for these companies to have the
+courage to challenges deeply held assumptions inherent to the their businesses,
+and the web. Things like the inherent anonymity of the web, and business models
+that rely on quantity over quality must be challenged, considered and discussed
+openly.&lt;/p&gt;
+
+&lt;h3 id=&quot;verify-every-account&quot;&gt;Verify every account&lt;/h3&gt;
+
+&lt;p&gt;Starting with new registrations and working through all accounts, all social
+media accounts should be verified, and determined to be held by a specific
+individual. While services might opt to allow unverified accounts, these
+accounts should be flagged as unverified (similar to the current Twitter
+verified badge) to ensure humans are clearly able to delineate between trusted
+human sources, and possible non-human actors on the platform.&lt;/p&gt;
+
+&lt;p&gt;There are a few methods that could be used here (some already in practice for
+access to certain features) either in tandem or as part of a suite of possible
+options:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;del&gt;strike through&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;==highlight==&lt;/li&gt;
-  &lt;li&gt;*escaped characters*&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;SMS based verification:&lt;/strong&gt; a user receives an SMS containing a unique code on
+registration, which they use, in conjunction with their password, to access
+the service and on every subsequent sign-in (i.e., two factor authentication).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Government issued ID verification:&lt;/strong&gt; a user submits a photo of a valid
+government issued ID which is checked for authenticity and uniqueness.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Human profile photo verification:&lt;/strong&gt; a user must maintain at least one well
+lit, machine and human identifiable image of their face (ideally matching that
+of the ID).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Peer verification:&lt;/strong&gt; a new user may request verification from peers who are
+verified on the service to confirm their identity.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Address verification:&lt;/strong&gt; a new user must submit a mailing address to which
+they have access. The user receives a postcard from the service to that
+address, which includes return postage. The user signs the postcard, and mails
+it back confirming their address.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Payment with a credit card:&lt;/strong&gt; perhaps the least popular, but one of the most
+effective and trusted methods would be simply to require users to pay, a one
+time fee, to process a verification (with a credit card in their name). To
+some these verifications might seem draconian (though most, if not all are
+already a part of official verification policies). To some they might present
+privacy concerns. What about users seeking to hide their identities (or
+example, whistleblowers or other anonymous actors)? To that I would argue,
+that without a method to properly verify these individuals are who they say
+they are, that anonymity does more harm than good on these type of platforms.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;writing-code-blocks&quot;&gt;Writing code blocks&lt;/h2&gt;
+&lt;p&gt;The traditional news media has long had policies and methods for verifying
+anonymous sources as trusted, privately, in ways that protect the source but
+allow them to publish information they assert as truthful. Self published
+information from anonymous sources is unverifiable, and thus objectively,
+untrustworthy.&lt;/p&gt;
 
-&lt;p&gt;There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;like this&lt;/code&gt;. Larger snippets of code can be displayed across multiple lines using triple back ticks:&lt;/p&gt;
+&lt;p&gt;One account per individual If we are to require verification for each account,
+the natural conclusion is that only one personal account may be held by each
+human individual. The operative here is personal account, namely that each human
+user on these services should be presented as such, and verified as such to be
+trustworthy.&lt;/p&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;.my-link {
-    text-decoration: underline;
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;There is, of course, a legitimate use case for engaging via multiple accounts on
+social media, for example engaging as a business, organization, or a creator. In
+these cases additional verification measure can be employed. Should the entity
+hold special designation (for example, they are a registered LLC or hold a
+trademark) that this special designation can be submitted for verification, and
+be identified (e.g., as a badge) in the account profile to build trust.&lt;/p&gt;
 
-&lt;p&gt;If you want to get really fancy, you can even add syntax highlighting using Rouge.&lt;/p&gt;
+&lt;p&gt;In cases where this is not so, for example when an account is simply for a blog,
+or other creator without any sort of incorporation of registration of business
+then the restriction is simple: these accounts can still be maintained, but will
+lack badges of verification. Once these creators become established and
+officially designated in some verifiable way they can then apply for
+verification and improve their standing.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/8.jpg&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;The goal should be that verification, or special badges of designation should
+indicate trust not truth per se, but traceability back to human actors. In this
+capacity badges of verification should be prominent, displayed on every post,
+every profile, every interface.&lt;/p&gt;
 
-&lt;h2 id=&quot;reference-lists&quot;&gt;Reference lists&lt;/h2&gt;
+&lt;h2 id=&quot;restrict-activity-for-unverified-accounts&quot;&gt;Restrict activity for unverified accounts&lt;/h2&gt;
 
-&lt;p&gt;The quick brown jumped over the lazy.&lt;/p&gt;
+&lt;p&gt;As not all accounts will chose to verify (and of course, some may be unable to)
+activity for these accounts should be restricted. This should act as both an
+incentive for verification, to encourage verification, but also, to marginalize
+possible non-human actors who are unable to verify.&lt;/p&gt;
 
-&lt;p&gt;Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.&lt;/p&gt;
-
-&lt;h2 id=&quot;full-html&quot;&gt;Full HTML&lt;/h2&gt;
-
-&lt;p&gt;Perhaps the best part of Markdown is that you’re never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here’s a standard YouTube embed code as an example:&lt;/p&gt;
-
-&lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</content><author><name>Sean Rioux</name></author><category term="business" /><category term="summer" /><summary type="html">There are lots of powerful things you can do with the Markdown editor. If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://images.unsplash.com/photo-1528784351875-d797d86873a1?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=750&amp;q=80" /><media:content medium="image" url="https://images.unsplash.com/photo-1528784351875-d797d86873a1?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=750&amp;q=80" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The first mass-produced book to deviate from a rectilinear format</title><link href="http://localhost:4000/article/2019-02-02-first-mass-produced" rel="alternate" type="text/html" title="The first mass-produced book to deviate from a rectilinear format" /><published>2019-02-02T00:00:00-05:00</published><updated>2019-02-02T00:00:00-05:00</updated><id>http://localhost:4000/article/first-mass-produced</id><content type="html" xml:base="http://localhost:4000/article/2019-02-02-first-mass-produced">&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
-
-&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
-
-&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
-
-&lt;p&gt;To deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
-
-&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
-
-&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;</content><author><name>sal</name></author><category term="tutorial" /><category term="featured" /><summary type="html">The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/17.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/17.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Education must also train one for quick, resolute and effective thinking.</title><link href="http://localhost:4000/article/2019-02-01-education" rel="alternate" type="text/html" title="Education must also train one for quick, resolute and effective thinking." /><published>2019-02-01T00:00:00-05:00</published><updated>2019-02-01T00:00:00-05:00</updated><id>http://localhost:4000/article/education</id><content type="html" xml:base="http://localhost:4000/article/2019-02-01-education">&lt;p&gt;There are lots of powerful things you can do with the Markdown editor&lt;/p&gt;
-
-&lt;p&gt;If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!&lt;/p&gt;
-
-&lt;p&gt;As with the last post about the editor, you’ll want to be actually editing this post as you read it so that you can see all the Markdown code we’re using.&lt;/p&gt;
-
-&lt;h2 id=&quot;special-formatting&quot;&gt;Special formatting&lt;/h2&gt;
-
-&lt;p&gt;As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:&lt;/p&gt;
+&lt;p&gt;A number of possible restrictions might have effect:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;del&gt;strike through&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;==highlight==&lt;/li&gt;
-  &lt;li&gt;*escaped characters*&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Restrict frequency of posting:&lt;/strong&gt; reduce the rate at which unverified users
+are able to post to the site (e.g., by the minute or even by the hour).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Restrict or demote unverified comments:&lt;/strong&gt; reduce the prominence or
+visibility of comments (or other interactions) made by unverified accounts. If
+you want your voice to be heard, you need a face.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Restrict what they can see:&lt;/strong&gt; most effectively perhaps (if not sure to be
+most controversial), limit the amount of content a user can access if
+unverified. Restrict them to only verified publishers, limit their feed,
+whatever it takes to create value incentives to verify.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;writing-code-blocks&quot;&gt;Writing code blocks&lt;/h2&gt;
+&lt;p&gt;One might make the point, that many social users (if not most on Twitter and
+Instagram), are passive users who would not inclined to verify. These users
+might simply leave or accept a restricted experience, reducing their usage. This
+could amount to a massive loss of revenue to these platforms, as ad revenue is
+paired to audience size, and the time people spend on these platforms (both
+toxic key metrics we’ll explore in a future post).&lt;/p&gt;
 
-&lt;p&gt;There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;like this&lt;/code&gt;. Larger snippets of code can be displayed across multiple lines using triple back ticks:&lt;/p&gt;
+&lt;p&gt;But, as an ad buyer, I can’t help but wonder, how much of my ad spend goes to
+non-human actors ignore my ads? If there not more value to a verified audience?&lt;/p&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;.my-link {
-    text-decoration: underline;
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Fundamentally it’s a question quality versus quantity. These platforms may have
+been built on quantity, but if quantity is artificial it’s value is lost both to
+us as users and to advertisers. Refocusing to be providers of greater quality
+(or at least more verifiably human) engage is a value incentive on both fronts,
+even if it changes the business metrics.&lt;/p&gt;
 
-&lt;p&gt;If you want to get really fancy, you can even add syntax highlighting using Rouge.&lt;/p&gt;
+&lt;p&gt;And that’s the key point isn’t it? Incentives. Restrictions may be perceived as
+negative incentives, but if there is no or insufficient incentive to overcome a
+barrier to entry (like being verified), then this likely reflects a flimsy value
+proposition. “Easy sign-up” is not a point of value, it’s a user experience
+optimization, and so what are humans getting when we give in to these platforms?&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/8.jpg&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;So as we consider restrictions, we must also consider how these platforms can
+increase the value on offer. Do so, and users will choose to look past
+restrictions, and verify.&lt;/p&gt;
 
-&lt;h2 id=&quot;reference-lists&quot;&gt;Reference lists&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Flag content posted via API&lt;/li&gt;
+  &lt;li&gt;Ban AI generated content&lt;/li&gt;
+  &lt;li&gt;Flag suspected AI generated content&lt;/li&gt;
+  &lt;li&gt;Empower user moderators&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;The quick brown jumped over the lazy.&lt;/p&gt;
+&lt;p&gt;Direct action&lt;/p&gt;
 
-&lt;p&gt;Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.&lt;/p&gt;
+&lt;p&gt;As&lt;/p&gt;
 
-&lt;h2 id=&quot;full-html&quot;&gt;Full HTML&lt;/h2&gt;
+&lt;p&gt;As brands&lt;/p&gt;
 
-&lt;p&gt;Perhaps the best part of Markdown is that you’re never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here’s a standard YouTube embed code as an example:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Less automation more human engagement&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</content><author><name></name></author><category term="business" /><summary type="html">There are lots of powerful things you can do with the Markdown editor</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/3.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/3.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Accumulated experience of social living</title><link href="http://localhost:4000/article/2019-01-30-acumulated-experience" rel="alternate" type="text/html" title="Accumulated experience of social living" /><published>2019-01-30T00:00:00-05:00</published><updated>2019-01-30T00:00:00-05:00</updated><id>http://localhost:4000/article/acumulated-experience</id><content type="html" xml:base="http://localhost:4000/article/2019-01-30-acumulated-experience">&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
+&lt;p&gt;As individuals&lt;/p&gt;
 
-&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Act as moderator contributors&lt;/li&gt;
+  &lt;li&gt;Media literacy “how to spot a fake account”&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
+&lt;p&gt;As governments&lt;/p&gt;
 
-&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>sal</name></author><category term="business" /><summary type="html">The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/15.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/15.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">About Bundler</title><link href="http://localhost:4000/article/2019-01-29-about-bundler" rel="alternate" type="text/html" title="About Bundler" /><published>2019-01-29T00:00:00-05:00</published><updated>2019-01-29T00:00:00-05:00</updated><id>http://localhost:4000/article/about-bundler</id><content type="html" xml:base="http://localhost:4000/article/2019-01-29-about-bundler">&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;gem install bundler&lt;/code&gt; installs the bundler gem through RubyGems. You only need to install it once - not every time you create a new Jekyll project. Here are some additional details:&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundler&lt;/code&gt; is a gem that manages other Ruby gems. It makes sure your gems and gem versions are compatible, and that you have all necessary dependencies each gem requires.&lt;/p&gt;
-
-&lt;p&gt;The &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Gemfile&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Gemfile.lock&lt;/code&gt; files inform &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Bundler&lt;/code&gt; about the gem requirements in your site. If your site doesn’t have these Gemfiles, you can omit &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundle exec&lt;/code&gt; and just &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;run jekyll serve&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;When you run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundle exec jekyll serve&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Bundler&lt;/code&gt; uses the gems and versions as specified in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Gemfile.lock&lt;/code&gt; to ensure your Jekyll site builds with no compatibility or dependency conflicts.&lt;/p&gt;
-
-&lt;p&gt;For more information about how to use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Bundler&lt;/code&gt; in your Jekyll project, this tutorial should provide answers to the most common questions and explain how to get up and running quickly.&lt;/p&gt;</content><author><name>sal</name></author><category term="Jekyll" /><summary type="html">gem install bundler installs the bundler gem through RubyGems. You only need to install it once - not every time you create a new Jekyll project. Here are some additional details:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/2.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">We all wait for summer</title><link href="http://localhost:4000/article/2019-01-28-we-all-wait-for-summer" rel="alternate" type="text/html" title="We all wait for summer" /><published>2019-01-28T00:00:00-05:00</published><updated>2019-01-28T00:00:00-05:00</updated><id>http://localhost:4000/article/we-all-wait-for-summer</id><content type="html" xml:base="http://localhost:4000/article/2019-01-28-we-all-wait-for-summer">&lt;p&gt;This is changed. As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that &lt;a href=&quot;#&quot;&gt;education should equip&lt;/a&gt; them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.&lt;/p&gt;
-
-&lt;p&gt;It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.&lt;/p&gt;</content><author><name>jane</name></author><category term="business" /><category term="featured" /><summary type="html">This is changed. As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/1.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Tree of Codes</title><link href="http://localhost:4000/article/2019-01-27-tree-of-codes" rel="alternate" type="text/html" title="Tree of Codes" /><published>2019-01-27T00:00:00-05:00</published><updated>2019-01-27T00:00:00-05:00</updated><id>http://localhost:4000/article/tree-of-codes</id><content type="html" xml:base="http://localhost:4000/article/2019-01-27-tree-of-codes">&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
-
-&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original — which sees Little Red Riding Hood being gobbled up as well as her grandmother — is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
-
-&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;</content><author><name>sal</name></author><category term="business" /><summary type="html">The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/2.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Red Riding Hood</title><link href="http://localhost:4000/article/2019-01-26-red-riding" rel="alternate" type="text/html" title="Red Riding Hood" /><published>2019-01-26T00:00:00-05:00</published><updated>2019-01-26T00:00:00-05:00</updated><id>http://localhost:4000/article/red-riding</id><content type="html" xml:base="http://localhost:4000/article/2019-01-26-red-riding">&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
-
-&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
-
-&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original — which sees Little Red Riding Hood being gobbled up as well as her grandmother — is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;</content><author><name>sal</name></author><category term="business" /><summary type="html">The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/3.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/3.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Press and education</title><link href="http://localhost:4000/article/2019-01-25-press-and-education" rel="alternate" type="text/html" title="Press and education" /><published>2019-01-25T00:00:00-05:00</published><updated>2019-01-25T00:00:00-05:00</updated><id>http://localhost:4000/article/press-and-education</id><content type="html" xml:base="http://localhost:4000/article/2019-01-25-press-and-education">&lt;p&gt;Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, is one of the chief aims of education. Education must enable one to sift and weigh evidence, to discern the true from the false, the real from the unreal, and the facts from the fiction.&lt;/p&gt;
-
-&lt;p&gt;Education must also train one for quick, &lt;strong&gt;resolute and effective thinking&lt;/strong&gt;. To think incisively and to think for one’s self is very difficult.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The function of education, therefore, is to teach one to think intensively and to think critically. But education which stops with efficiency may prove the greatest menace to society. The most dangerous criminal may be the man gifted with reason, but with no morals.&lt;/p&gt;
-
-&lt;p&gt;The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?&lt;/p&gt;
-
-&lt;p&gt;We must remember that intelligence is not enough. Intelligence plus character–that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate. The broad education will, therefore, transmit to one not only the accumulated knowledge of the race but also the accumulated experience of social living.&lt;/p&gt;</content><author><name>sal</name></author><category term="business" /><summary type="html">Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, is one of the chief aims of education. Education must enable one to sift and weigh evidence, to discern the true from the false, the real from the unreal, and the facts from the fiction.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/7.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/7.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;ul&gt;
+  &lt;li&gt;Investment in digital security expertise&lt;/li&gt;
+  &lt;li&gt;Take the threat seriously&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Sean Rioux</name></author><category term="web" /><summary type="html">Social networks are inundated with bots and fake accounts. It is estimated that 9%-15% of the roughly 340 million twitter accounts may not be human (comparable to the population of Canada in terms of total “individuals”). For Facebook the estimated percentage of fake accounts is lower, but a significant volume nonetheless, with an estimated 5% of their 2.5 billion users fake (or 125 million fake accounts).</summary></entry></feed>
