@@ -1,27 +1,27 @@
 ---
 layout: post
-title: "How To Fix The Web: Ban All Bots"
+title: "How To Fix The Web: Ban The Bots"
 category: web
 author: sean
 summary: Social networks are inundated with bots and fake accounts.
 ---
 
-Social networks are inundated with bots and fake accounts. It is estimated that
-9%-15% of the roughly 340 million twitter accounts may not be human (comparable
-to the population of Canada in terms of total "individuals"). For Facebook the
-estimated percentage of fake accounts is lower, but a significant volume
-nonetheless, with an estimated 5% of their 2.5 billion users fake (or 125
-million fake accounts).
+Social networks are constantly being inundated with bots and fake accounts. A
+[2017 study](https://arxiv.org/abs/1703.03107) estimated that 9%-15% of the
+roughly 340 million twitter accounts were not be human.
+[CNN reports](https://www.cnn.com/2019/11/13/tech/facebook-fake-accounts/index.html)
+that In 2019 alone, Facebook shut down 5.4 million fake accounts.
 
-A study conducted in the wake of the 2016 US election found that 19% of all
-Tweets during the period leading up to the election we're posted by 400,000
-bots. The US Senate Intelligence Committee, as part of the Russia Report found a
-concerning amount of bot activity to be part of state sanctioned attacks against
-the US, by Russia.
+While some accounts are used for novelty, many are used more nafariously, and
+even as part of state sactioned campaigns: programmed to applify and spread
+harmful discourse, sow real world polorization, and of course as we're all all
+too familiar, attack the results of elections.
 
-And it isn't limited to the US. In Canada, similar analysis has lead to similar
-conclusions. While not always state sanctioned, bad actors are actively
-leveraging non-human activity to manipulate conversation at a global scale.
+Of course, the issue isn't limited to the US. In Canada, similar analysis has
+lead to
+[similar conclusions](https://www.nationalobserver.com/2019/06/26/news/non-human-users-threaten-hijack-canadas-twitter-discussions).
+While not always state sanctioned, bad actors are actively leveraging non-human
+activity to manipulate conversation at a global scale.
 
 While efforts by social media companies to combat the impact of non-human
 activities on their platforms have been fruitful, the problem persists, and it's

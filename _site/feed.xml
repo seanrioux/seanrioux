@@ -1,110 +1,87 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://example.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://example.com/" rel="alternate" type="text/html" /><updated>2021-01-12T22:14:56-05:00</updated><id>https://example.com/feed.xml</id><title type="html">Sean Rioux</title><subtitle>This is it. This is a blog template and it's tight. Seriously, it's got everything it needs. Got it. Good.</subtitle><entry><title type="html">How To Fix The Web: Ban All Bots</title><link href="https://example.com/article/2019-02-04-welcome-to-jekyll" rel="alternate" type="text/html" title="How To Fix The Web: Ban All Bots" /><published>2019-02-04T00:00:00-05:00</published><updated>2019-02-04T00:00:00-05:00</updated><id>https://example.com/article/welcome-to-jekyll</id><content type="html" xml:base="https://example.com/article/2019-02-04-welcome-to-jekyll">&lt;p&gt;Social networks are inundated with bots and fake accounts. It is estimated that
-9%-15% of the roughly 340 million twitter accounts may not be human (comparable
-to the population of Canada in terms of total “individuals”). For Facebook the
-estimated percentage of fake accounts is lower, but a significant volume
-nonetheless, with an estimated 5% of their 2.5 billion users fake (or 125
-million fake accounts).&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-01-18T21:21:22-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sean Rioux</title><subtitle>This is it. This is a blog template and it's tight. Seriously, it's got everything it needs. Got it. Good.</subtitle><entry><title type="html">How To Fix The Web: Ban The Bots</title><link href="http://localhost:4000/article/2019-02-04-ban-all-bots" rel="alternate" type="text/html" title="How To Fix The Web: Ban The Bots" /><published>2019-02-04T00:00:00-05:00</published><updated>2019-02-04T00:00:00-05:00</updated><id>http://localhost:4000/article/ban-all-bots</id><content type="html" xml:base="http://localhost:4000/article/2019-02-04-ban-all-bots">&lt;p&gt;Social media is inundated with bots engaged in platform manipulation. These bots
+are programmed to amplify harmful discourse, sow polarization, and as we have
+seen already this year, lead to real world chaos.&lt;/p&gt;
 
-&lt;p&gt;A study conducted in the wake of the 2016 US election found that 19% of all
-Tweets during the period leading up to the election we’re posted by 400,000
-bots. The US Senate Intelligence Committee, as part of the Russia Report found a
-concerning amount of bot activity to be part of state sanctioned attacks against
-the US, by Russia.&lt;/p&gt;
+&lt;p&gt;Despite violent attacks on democracy social media platforms continue to manage
+the problem reactively, if not retroactively. Mass culling of accounts after
+real world harm occurs is not a sustainable solution. Platforms need to begin to
+act proactively, restrictively, and on multiple fronts to battle manipulation.&lt;/p&gt;
 
-&lt;p&gt;And it isn’t limited to the US. In Canada, similar analysis has lead to similar
-conclusions. While not always state sanctioned, bad actors are actively
-leveraging non-human activity to manipulate conversation at a global scale.&lt;/p&gt;
+&lt;p&gt;This means a change to their incentives, and their business fundamentals, and it
+will cost them. In the meantime, as misinformation continues to draw out this
+global pandemic, as blood is shed on the steps of the US capital building, what
+are their continued half measures costing us?&lt;/p&gt;
 
-&lt;p&gt;While efforts by social media companies to combat the impact of non-human
-activities on their platforms have been fruitful, the problem persists, and it’s
-getting worse.&lt;/p&gt;
+&lt;h3 id=&quot;scale&quot;&gt;Scale&lt;/h3&gt;
 
-&lt;h2 id=&quot;root-causes&quot;&gt;Root Causes&lt;/h2&gt;
+&lt;p&gt;The scale of this issue is global. Some truly humbling numbers:&lt;/p&gt;
 
-&lt;p&gt;Why have these platforms allowed such a persistent and identifiable problem to
-reach this level of severity?&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;A 2017 study estimated that 9%-15% of Twitter accounts were bots&lt;/li&gt;
+  &lt;li&gt;A 2019 CNN report found Facebook removed 5.4 billion fake accounts&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.npr.org/sections/coronavirus-live-updates/2020/05/20/859814085/researchers-nearly-half-of-accounts-tweeting-about-coronavirus-are-likely-bots&quot;&gt;Nearly half of accounts Tweeting about Coronavirus are likely bots&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;impact&quot;&gt;Impact&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/d41586-020-03034-5&quot;&gt;The next-generation bots interfering with the US election&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.npr.org/sections/coronavirus-live-updates/2020/05/20/859814085/researchers-nearly-half-of-accounts-tweeting-about-coronavirus-are-likely-bots&quot;&gt;Researchers: Nearly Half Of Accounts Tweeting About Coronavirus Are Likely Bots&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nationalobserver.com/2019/06/26/news/non-human-users-threaten-hijack-canadas-twitter-discussions&quot;&gt;Non-human users threaten to hijack Canada’s Twitter discussions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;causes&quot;&gt;Causes&lt;/h2&gt;
+
+&lt;p&gt;When we consider platform mechanics and business incentives we find many
+possible factors:&lt;/p&gt;
 
 &lt;h3 id=&quot;prioritizing-user-volume&quot;&gt;Prioritizing user volume&lt;/h3&gt;
 
-&lt;p&gt;From the beginning these services have prioritized user volume as a key metric.
-As publicly traded companies, with revenue tied to advertising, user growth has
-been a proxy for revenue growth and general platform health. The pursuit of user
-volume over time has lead to a general goal of low friction sign-up, so low,
-that the process can be automated ad infinitum.&lt;/p&gt;
+&lt;p&gt;From the beginning social platforms have prioritized user volume. As publicly
+traded companies, with revenue tied to advertising, pressure on upward user
+growth is primary. This pursuit of user led-growth has lead to a general
+industry goal of low friction sign-up, so low, that the process can be easily
+automated for most services.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, it is possible correlating user growth and revenue acts as a
+perverse incentive; leading companies to ignore fake users, in the interest of
+inflated growth metrics.&lt;/p&gt;
 
 &lt;h3 id=&quot;lack-of-user-verification&quot;&gt;Lack of user verification&lt;/h3&gt;
 
-&lt;p&gt;In pursuit of low friction sign-up, these services have thus far resisted more
-effective user verification measures. While Twitter has recently begun to employ
-phone verification in cases of suspicious activity, and both Twitter and
-Facebook offering voluntary verification programs, for the general user no more
-than an email is a required.&lt;/p&gt;
+&lt;p&gt;In pursuit of low friction sign-up, these services have resisted more effective
+user verification measures. While many services has recently begun to encourage
+two factor authentication or offer voluntary verification programs, for the
+general user no more than an email is a required to sign-up for most.&lt;/p&gt;
 
-&lt;p&gt;This is fundamentally problematic as email can not act as a reliable indicator
-of authentic human activity. An email server can easily be self hosted, and
-email accounts easily created on mass.&lt;/p&gt;
+&lt;p&gt;This is problematic. Email is not as a reliable indicator of authentic activity
+as an email server can be hosted anywhere, and accounts created on mass via
+automation.&lt;/p&gt;
 
-&lt;p&gt;While certainly at 340 million users on Twitter and 2.5 billion users on
-Facebook, verification of all accounts presents a non-trivial technical
-challenge. However, that email continues to be all that is required for sign-up
-for platforms of this scale and impact, signals a general lack of effort toward
-true human-user verification in favour of maintaining user volume and growth.&lt;/p&gt;
+&lt;h3 id=&quot;interaction-via-api&quot;&gt;Interaction via API&lt;/h3&gt;
 
-&lt;h3 id=&quot;third-party-interaction-via-api&quot;&gt;Third party interaction via API&lt;/h3&gt;
+&lt;p&gt;As human users of Twitter we use an app or the web interface. An API, (or
+application programming interface) allows programmers to build software
+automation to interact with the service, also known. Depending on the service,
+these bots can do close to everything that is possible through the app or web
+interface, but without the limitations of the user interface or a human user:
+bots can work faster, more efficiently, and around the clock.&lt;/p&gt;
 
-&lt;p&gt;In the early days of these services part of the promise (of Twitter in
-particular) was that of a more open web. Twitter would become the defacto mass
-messaging service with an easy to use API (application programming interface) to
-allow all kinds of third-party services to leverage the platform to bring Tweets
-to other services, and other services to Twitter.&lt;/p&gt;
+&lt;p&gt;Why would they allow this you might ask? The purpose of an social API is to
+allow third-party businesses to leverage the platforms to build new products and
+services. If you use Buffer or Hootsuite, for example, you’re leveraging APIs.&lt;/p&gt;
 
-&lt;p&gt;If you’re not familiar with the technology, an API allows programmers to
-interact with software, like Twitter, programmatically. As human users of
-Twitter we typically use an interface (twitter.com or a mobile app). This
-interface is an abstraction layer on top of the API that makes it easy for
-non-programmers to interact with information. The API, conversely allows
-programmers to interact directly with the information. They can get information,
-or post information to the service using this API, close to everything that is
-possible through the interface, but without the limitations of the user
-interface.&lt;/p&gt;
+&lt;p&gt;While perhaps beneficial in these applications, these same APIs may also be
+exploited by bad actors. Furthermore, sorting legitimate and illegitimate use is
+a non-trivial task, inevitably requiring human moderation for millions, if not
+billions of individual automated interactions.&lt;/p&gt;
 
-&lt;p&gt;Many business models have been built atop this API based model. If you use
-Buffer or Hootsuite as part of your digital marketing activities, you’re
-leveraging APIs.&lt;/p&gt;
+&lt;p&gt;Most problematically, perhaps, user are typically not even aware this automation
+is possible or prevalent, meaning legitimate or not, many of us are interacting
+with automated content opaquely (i.e., we have no indication that we are
+interacting with an API driven automation).&lt;/p&gt;
 
-&lt;p&gt;While powerful, and beneficial in some applications, for example automating
-brand messaging across marketing channels or simply creating interactive or
-informational programs, these avenues are now broadly exploited by bad actors.
-Sorting out legitimate use and illegitimate use is something these services are
-actively engaging, but again the problems persist. At the risk of dissuading
-legitimate use these services have yet to fully reign in misuse of their APIs,
-and with few users even aware this automation is possible many of us are
-interacting with this misuse opaquely.&lt;/p&gt;
-
-&lt;h3 id=&quot;lack-of-regulating-ai&quot;&gt;Lack of regulating AI&lt;/h3&gt;
-
-&lt;p&gt;No-one is prepared for how disruptive artificial intelligence is to become in
-the coming decade and beyond, and yet policy makers and technology companies
-have done little to nothing to prevent their misuse, and we’re already seeing
-the effect on these platforms.&lt;/p&gt;
-
-&lt;p&gt;For the most part the non-human actors on social services we’re considering are
-simple automated bots, designed to mimic human interaction with these services,
-or simply use the APIs provided by these services as intended.&lt;/p&gt;
-
-&lt;p&gt;However, pair this with ease at which deep fakes can produce fake human profile
-images, video, audio, or how bots can be trained to create original and
-convincing written text, and the problem of these non-human actors owning these
-platforms may become intractable. Most solutions meant to mitigate the
-prevalence of bots, attempt to do so by looking for signature bot activity:
-monitoring frequency of posting, content originality, or even the nuanced
-cadence at which step by step interactions occur. Machine learning algorithms
-trained to mimic human behaviour accurately is not a remote possibility, it’s a
-present reality, and so it may become impossible to stop non-human actors from
-dominating these platforms if we don’t move aggressively to ban them from these
-platforms.&lt;/p&gt;
-
-&lt;h2 id=&quot;proposed-platform-solutions&quot;&gt;Proposed platform solutions&lt;/h2&gt;
+&lt;h2 id=&quot;possible-platform-solutions&quot;&gt;Possible platform solutions&lt;/h2&gt;
 
 &lt;p&gt;As Jack Dorsey was apt to point out in a recent interview on the New York Times
 Daily podcast, there is no magic bullet to solving the issues of social media
@@ -151,14 +128,15 @@ address, which includes return postage. The user signs the postcard, and mails
 it back confirming their address.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Payment with a credit card:&lt;/strong&gt; perhaps the least popular, but one of the most
 effective and trusted methods would be simply to require users to pay, a one
-time fee, to process a verification (with a credit card in their name). To
-some these verifications might seem draconian (though most, if not all are
-already a part of official verification policies). To some they might present
-privacy concerns. What about users seeking to hide their identities (or
-example, whistleblowers or other anonymous actors)? To that I would argue,
-that without a method to properly verify these individuals are who they say
-they are, that anonymity does more harm than good on these type of platforms.&lt;/li&gt;
+time fee, to process a verification (with a credit card in their name).&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;To some these verifications might seem draconian (though most, if not all are
+already a part of official verification policies). To some they might present
+privacy concerns. What about users seeking to hide their identities (or example,
+whistle-blowers or other anonymous actors)? To that I would argue, that without
+a method to properly verify these individuals are who they say they are, that
+anonymity does more harm than good on these type of platforms.&lt;/p&gt;
 
 &lt;p&gt;The traditional news media has long had policies and methods for verifying
 anonymous sources as trusted, privately, in ways that protect the source but
@@ -191,7 +169,7 @@ indicate trust not truth per se, but traceability back to human actors. In this
 capacity badges of verification should be prominent, displayed on every post,
 every profile, every interface.&lt;/p&gt;
 
-&lt;h2 id=&quot;restrict-activity-for-unverified-accounts&quot;&gt;Restrict activity for unverified accounts&lt;/h2&gt;
+&lt;h3 id=&quot;restrict-activity-for-unverified-accounts&quot;&gt;Restrict activity for unverified accounts&lt;/h3&gt;
 
 &lt;p&gt;As not all accounts will chose to verify (and of course, some may be unable to)
 activity for these accounts should be restricted. This should act as both an
@@ -238,33 +216,44 @@ optimization, and so what are humans getting when we give in to these platforms?
 increase the value on offer. Do so, and users will choose to look past
 restrictions, and verify.&lt;/p&gt;
 
+&lt;h3 id=&quot;flag-artificial-interactions&quot;&gt;Flag artificial interactions&lt;/h3&gt;
+
 &lt;ul&gt;
-  &lt;li&gt;Flag content posted via API&lt;/li&gt;
+  &lt;li&gt;Flag all content posted via API&lt;/li&gt;
+  &lt;li&gt;Flag possible artificial content
+    &lt;ul&gt;
+      &lt;li&gt;Content which is duplicitous:&lt;/li&gt;
+      &lt;li&gt;Content which has been flagged as artificial:&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;empower-user-moderation&quot;&gt;Empower user moderation&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Create a moderator team:&lt;/li&gt;
+  &lt;li&gt;Respond more actively via flagging:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;whats-coming&quot;&gt;What’s coming&lt;/h2&gt;
+
+&lt;p&gt;No-one is prepared for how disruptive artificial intelligence is to become in
+the coming decade. and in this case social media companies have done little to
+moderate their possible use in developing next generation bots.&lt;/p&gt;
+
+&lt;p&gt;At the moment, the non-human actors we’re considering here are simple automated
+bots, designed to mimic human interaction.&lt;/p&gt;
+
+&lt;p&gt;However, if we look at the field of machine learning, and the ease at which deep
+fakes can produce fake human profile images, video, audio, or how bots can be
+trained to create original and convincing written text, and the problem of these
+non-human actors owning may become intractable.&lt;/p&gt;
+
+&lt;p&gt;This is why I’m recommending a few premptive actions:&lt;/p&gt;
+
+&lt;ul&gt;
   &lt;li&gt;Ban AI generated content&lt;/li&gt;
-  &lt;li&gt;Flag suspected AI generated content&lt;/li&gt;
-  &lt;li&gt;Empower user moderators&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Direct action&lt;/p&gt;
-
-&lt;p&gt;As&lt;/p&gt;
-
-&lt;p&gt;As brands&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Less automation more human engagement&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;As individuals&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Act as moderator contributors&lt;/li&gt;
-  &lt;li&gt;Media literacy “how to spot a fake account”&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;As governments&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Investment in digital security expertise&lt;/li&gt;
-  &lt;li&gt;Take the threat seriously&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Sean Rioux</name></author><category term="web" /><summary type="html">Social networks are inundated with bots and fake accounts. It is estimated that 9%-15% of the roughly 340 million twitter accounts may not be human (comparable to the population of Canada in terms of total “individuals”). For Facebook the estimated percentage of fake accounts is lower, but a significant volume nonetheless, with an estimated 5% of their 2.5 billion users fake (or 125 million fake accounts).</summary></entry></feed>
+&lt;p&gt;This it’s why companies act now: to work to ban any and all automated activity,
+and to allow human communications to be human scale.&lt;/p&gt;</content><author><name>Sean Rioux</name></author><category term="web" /><summary type="html">Social media is inundated with bots engaged in platform manipulation. These bots are programmed to amplify harmful discourse, sow polarization, and as we have seen already this year, lead to real world chaos.</summary></entry></feed>

@@ -1,0 +1,5 @@
+- name: User Story Examples
+  description:
+    A free to use knowledge base to help you write better user stories
+  url: https://github.com/seanrioux/user-story-examples
+  license: MIT license
