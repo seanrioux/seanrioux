@@ -1,15 +1,7 @@
 # Site
 name: "Sean Rioux"
-description:
-  "This is it. This is a blog template and it's tight. Seriously, it's got
-  everything it needs. Got it. Good."
-logo: "assets/images/logo.png"
-favicon: "assets/images/favicon.ico"
+description: "I'm a web entrepreneur, programmer, and advocate. I believe in the social potential of a more open and humane world wide web."
 baseurl: ""
-disqus: "demowebsite"
-email: "wowthemesnet@gmail.com"
-mailchimp: "https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b"
-
 include: ["_pages"]
 permalink: /:title/
 
@@ -31,7 +23,7 @@ page_gen:
     dir: category
 
 # Site map
-url: "https://example.com"
+url: "https://seanrioux.com"
 
 # Defaults
 defaults:

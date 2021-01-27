@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://example.com/terms</loc>
+<loc>https://seanrioux.com/terms</loc>
 </url>
 <url>
-<loc>https://example.com/</loc>
+<loc>https://seanrioux.com/</loc>
 </url>
 <url>
-<loc>https://example.com/privacy</loc>
+<loc>https://seanrioux.com/privacy</loc>
 </url>
 <url>
-<loc>https://example.com/category/web/</loc>
+<loc>https://seanrioux.com/category/web/</loc>
 </url>
 </urlset>
